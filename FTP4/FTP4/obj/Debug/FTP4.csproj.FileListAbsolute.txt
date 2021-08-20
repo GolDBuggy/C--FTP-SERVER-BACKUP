@@ -1,0 +1,10 @@
+C:\Users\İbrahim Hakkı\Source\Repos\FTP4\FTP4\bin\Debug\FTP4.exe.config
+C:\Users\İbrahim Hakkı\Source\Repos\FTP4\FTP4\bin\Debug\FTP4.exe
+C:\Users\İbrahim Hakkı\Source\Repos\FTP4\FTP4\bin\Debug\FTP4.pdb
+C:\Users\İbrahim Hakkı\Source\Repos\FTP4\FTP4\obj\Debug\FTP4.csproj.AssemblyReference.cache
+C:\Users\İbrahim Hakkı\Source\Repos\FTP4\FTP4\obj\Debug\FTP4.Form1.resources
+C:\Users\İbrahim Hakkı\Source\Repos\FTP4\FTP4\obj\Debug\FTP4.Properties.Resources.resources
+C:\Users\İbrahim Hakkı\Source\Repos\FTP4\FTP4\obj\Debug\FTP4.csproj.GenerateResource.cache
+C:\Users\İbrahim Hakkı\Source\Repos\FTP4\FTP4\obj\Debug\FTP4.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Hakkı\Source\Repos\FTP4\FTP4\obj\Debug\FTP4.exe
+C:\Users\İbrahim Hakkı\Source\Repos\FTP4\FTP4\obj\Debug\FTP4.pdb
