@@ -201,12 +201,12 @@ namespace FTP4
                 for (int i = 0; i <= listBox2.Items.Count; i++)
                 {
 
-                    FTP = (FtpWebRequest)FtpWebRequest.Create(new Uri("ftp://backup.iletmen.com.tr/" + today.ToString("MM/dd/yyyy") + "/" + veriler2[i]));
+                    FTP = (FtpWebRequest)FtpWebRequest.Create(new Uri("ftp://backup.companyname.com.tr/" + today.ToString("MM/dd/yyyy") + "/" + veriler2[i]));
 
 
                     FTP.UseBinary = true;
 
-                    FTP.Credentials = new NetworkCredential("backup", "Xyz9d8!1");
+                    FTP.Credentials = new NetworkCredential("username", "password");
 
                     FTP.Method = WebRequestMethods.Ftp.DeleteFile;
 
